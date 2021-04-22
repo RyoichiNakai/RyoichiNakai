@@ -12,7 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![github-stats-card](https://github-readme-stats.vercel.app/api?username=RyoichiNakai&show_icons=true&count_praivate=true&theme=graywhite)
 
-![top-language-card](https://github-readme-stats.vercel.app/api/top-langs/?username=RyoichiNakai&count_praivate=true&layout=compact)
 
+<a href="https://github.com/RyoichiNakai">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=RyoichiNakai&show_icons=true&count_praivate=true&theme=graywhite" />
+</a>
+<a href="https://github.com/RyoichiNakai">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyoichiNakai&count_praivate=true&title_color=34393C&hide=php&langs_count=3" />
+</a>
