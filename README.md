@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **RyoichiNakai/RyoichiNakai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,5 +14,5 @@ Here are some ideas to get you started:
 -->
 ![github-stats-card](https://github-readme-stats.vercel.app/api?username=RyoichiNakai&show_icons=true&count_praivate=true&theme=graywhite)
 
-![top-language-card](https://github-readme-stats.vercel.app/api/top-langs/?username=RyoichiNakai&count_praivate=true)
+![top-language-card](https://github-readme-stats.vercel.app/api/top-langs/?username=RyoichiNakai&count_praivate=true&layout=compact)
 
