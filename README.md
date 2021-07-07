@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/RyoichiNakai">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=RyoichiNakai&show_icons=true&count_praivate=true&theme=graywhite" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=RyoichiNakai&show_icons=true&count_private=true&theme=graywhite" />
 </a>
 <a href="https://github.com/RyoichiNakai">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyoichiNakai&count_praivate=true&title_color=34393C&langs_count=3&exclude_repo=docker-wordpress-mysql-blog,atcorder" />
