@@ -25,7 +25,7 @@
 - 📫 How to reach me: elmofwry0913@gmail.com
 
 
-- 🛳 Fun fact: 🖥 Gadget,🪴 Interior, 🏀 Basketball, 💰 Money, etc... 
+- 🛳 Fun fact: 🖥 Gadget,🪴 Interior, 🏀 Basketball, 🏃🏻 Exercise, 💰 Money, etc... 
 
 ## 🛠 My Skills
 
