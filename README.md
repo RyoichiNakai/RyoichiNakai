@@ -29,7 +29,7 @@
 
 <p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=RyoichiNakai&theme=nord&hide_border=true" alt="streak stats"  /></p>
 
-## 📈 Github Readme Stats
+## 📊 Github Readme Stats
 
 <div align="center">
   <a href="https://github.com/RyoichiNakai">
@@ -43,6 +43,9 @@
   </a>
 </div>
 
+## 📈 Recent GitHub Activity
+
+   <a href="https://github.com/Candida18"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ryoichinakai&custom_title=Ryoichi%20Nakai's%20Contribution%20Graph&theme=nord" /></a>
 
 
 <!-- TODO: Twitter Facebookなどのコンタクト先を記載 -->
