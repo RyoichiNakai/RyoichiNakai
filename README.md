@@ -29,28 +29,44 @@
 
 ## 🔨 My Skills
 
-<p align="center"> 
-  <a href="https://aws.amazon.com" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a> 
+<!-- https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
+
+### Infrastructure
+
+<a href="https://www.docker.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+</a>
+<a href="https://circleci.com" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/>
+</a>
+<a href="https://aws.amazon.com" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+</a>
+<a href="https://www.nginx.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
+</a>
+
+
+### Programming Languages
+
+<a href="https://www.python.org" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+</a>
+<a href="https://golang.org" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
+</a>
   <a href="https://getbootstrap.com" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
   </a>
-  <a href="https://circleci.com" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/>
-  </a>
+
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
+
   <a href="https://flutter.dev" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
   </a>
-  <a href="https://golang.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
-  </a>
+
   <a href="https://graphql.org" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
   </a>
@@ -66,9 +82,7 @@
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
-  <a href="https://www.nginx.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
-  </a>
+
   <a href="https://nuxtjs.org/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/>
   </a>
@@ -78,9 +92,7 @@
   <a href="https://www.postgresql.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
   </a>
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
+
   <a href="https://rubyonrails.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/>
   </a>
@@ -101,31 +113,33 @@
 ## 💪🏻 Github Stats
 
 <details> 
-  <summary><b>🔥 Profile and Streak</b></summary>
+  <summary><b>📝 README Stats </b></summary>
   <br/>
-  <p align="center">
+  <div align="center">
     <a href="https://github.com/RyoichiNakai">
       <img src="https://github-readme-stats.vercel.app/api?username=RyoichiNakai&show_icons=true&count_private=true&theme=nord" />
     </a>
+  </div>
+  <div align="center">
     <a href="https://github.com/RyoichiNakai">
-      <img src="http://github-readme-streak-stats.herokuapp.com?user=RyoichiNakai&theme=nord&hide_border=false" alt="streak stats"  />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyoichiNakai&count_praivate=true&theme=nord&langs_count=6&exclude_repo=docker-wordpress-mysql-blog,atcorder&layout=compact" />
     </a>
-  </p>
+    <br/>
+    <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  </div>
 </details>
 
 <details> 
-  <summary><b>🗺  Most Used Languages</b></summary>
+  <summary><b>🔥 Streak Stats </b></summary>
   <br/>
   <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyoichiNakai&count_praivate=true&theme=nord&langs_count=6&exclude_repo=docker-wordpress-mysql-blog,atcorder&layout=compact" />
-    <br/>
-    <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+     <img src="http://github-readme-streak-stats.herokuapp.com?user=RyoichiNakai&theme=nord&hide_border=false" alt="streak stats"  />
   </p>
 </details>
 
 <details> 
   <summary><b>📈 Recent Activity</b></summary>
-
+  <br/>
   <p align="center">
     <a href="https://github.com/Candida18"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ryoichinakai&custom_title=Ryoichi%20Nakai's%20Contribution%20Graph&theme=nord" /></a>
   </p>
