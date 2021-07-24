@@ -31,7 +31,7 @@
 <!-- https://rahuldkjain.github.io/gh-profile-readme-generator/ は使わない方向で -->
 <!-- https://github.com/Ileriayo/markdown-badges -->
 
-### IDEs/Editors
+#### IDEs/Editors
 
 <p align="left"> 
   &emsp; 
@@ -42,7 +42,7 @@
   <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
 </p>
 
-### Version Control
+#### Version Control
 
 <p align="left"> 
   &emsp; 
@@ -53,7 +53,7 @@
   <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
-### Prorgramming Languages
+#### Prorgramming Languages
 
 <p align="left"> 
   &emsp; 
@@ -74,7 +74,7 @@
   <img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
 </p>
 
-### FrontEnd Development
+#### FrontEnd Development
 
 <p align="left">
   &emsp;
@@ -87,7 +87,7 @@
   <img alt="NuxtJS" src="https://img.shields.io/badge/NuxtJS-black.svg?style=for-the-badge&logo=NuxtJS&logoColor=white"/>
 </p>
 
-### BackEnd Development
+#### BackEnd Development
 
 <p align="left"> 
   &emsp; 
@@ -96,7 +96,7 @@
   <img alt="Rails" src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white"/>
 </p>
 
-### DataBases
+#### DataBases
 
 <p align="left"> 
   &emsp; 
@@ -105,7 +105,7 @@
   <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
-### Hosting/SaaS/Servers/CI
+#### Hosting/SaaS/Servers/CI
 
 <p align="left"> 
   &emsp; 
@@ -129,10 +129,8 @@
     <a href="https://github.com/RyoichiNakai">
       <img src="https://github-readme-stats.vercel.app/api?username=RyoichiNakai&show_icons=true&count_private=true&theme=nord" />
     </a>
-  </div>
-  <div align="center">
     <a href="https://github.com/RyoichiNakai">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyoichiNakai&count_praivate=true&theme=nord&langs_count=6&exclude_repo=docker-wordpress-mysql-blog,atcorder&layout=compact" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyoichiNakai&count_praivate=true&theme=nord&langs_count=8&exclude_repo=docker-wordpress-mysql-blog,atcorder&layout=compact" />
     </a>
     <br/>
     <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
