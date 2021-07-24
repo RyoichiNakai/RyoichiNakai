@@ -27,13 +27,13 @@
 
 ## 📊 Github Readme and Streak Stats
 
-<div align="center">
+<p align="center">
   <a href="https://github.com/RyoichiNakai">
     <img src="https://github-readme-stats.vercel.app/api?username=RyoichiNakai&show_icons=true&count_private=true&theme=nord" />
   </a>
-  <p>
+  <a a href="https://github.com/RyoichiNakai">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=RyoichiNakai&theme=nord&hide_border=true" alt="streak stats"  />
-  </p>
+  </a>
 </div>
 
 <!-- <div align="center">
@@ -41,10 +41,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyoichiNakai&count_praivate=true&theme=nord&langs_count=6&exclude_repo=docker-wordpress-mysql-blog,atcorder&layout=compact" />
   </a>
 </div> -->
-
-## 🔥 Streak Stats
-
-<p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=RyoichiNakai&theme=nord&hide_border=true" alt="streak stats"  /></p>
 
 ## 📈 Recent GitHub Activity
 
