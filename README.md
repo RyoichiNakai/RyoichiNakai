@@ -25,7 +25,7 @@
 
 - 🛳 Fun fact: 💡 Gadget,🪴 Interior, 🏀 Basketball, 💰 Money, etc... 
 
-## 📊 Github Readme and Streak Stats
+## 📊 Github Peofile and Streak Stats
 
 <p align="center">
   <a href="https://github.com/RyoichiNakai">
