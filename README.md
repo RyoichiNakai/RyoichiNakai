@@ -25,11 +25,11 @@
 - 📫 How to reach me: elmofwry0913@gmail.com
 
 
-- 🛳 Fun fact: 💡 Gadget,🪴 Interior, 🏀 Basketball, 💰 Money, etc... 
+- 🛳 Fun fact: 🖥 Gadget,🪴 Interior, 🏀 Basketball, 💰 Money, etc... 
 
-## 💻 My Skills
+## 🛠 My Skills
 
-## 📊 Github Stats
+## 💪🏻 Github Stats
 
 <details> 
   <summary><b>🔥 Profile and Streak</b></summary>
