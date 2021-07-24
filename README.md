@@ -25,10 +25,6 @@
 
 - 🛳 Fun fact: 💡 Gadget,🪴 Interior, 🏀 Basketball, 💰 Money, etc... 
 
-## 🔥 Streak Stats
-
-<p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=RyoichiNakai&theme=nord&hide_border=true" alt="streak stats"  /></p>
-
 ## 📊 Github Readme Stats
 
 <div align="center">
@@ -42,6 +38,10 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyoichiNakai&count_praivate=true&theme=nord&langs_count=6&exclude_repo=docker-wordpress-mysql-blog,atcorder&layout=compact" />
   </a>
 </div>
+
+## 🔥 Streak Stats
+
+<p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=RyoichiNakai&theme=nord&hide_border=true" alt="streak stats"  /></p>
 
 ## 📈 Recent GitHub Activity
 
