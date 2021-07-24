@@ -108,7 +108,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=RyoichiNakai&show_icons=true&count_private=true&theme=nord" />
     </a>
     <a href="https://github.com/RyoichiNakai">
-      <img src="http://github-readme-streak-stats.herokuapp.com?user=RyoichiNakai&theme=nord&hide_border=true" alt="streak stats"  />
+      <img src="http://github-readme-streak-stats.herokuapp.com?user=RyoichiNakai&theme=nord&hide_border=false" alt="streak stats"  />
     </a>
   </p>
 </details>
