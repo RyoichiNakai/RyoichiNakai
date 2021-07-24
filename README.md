@@ -74,7 +74,7 @@
   <img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
 </p>
 
-#### FrontEnd Development
+#### FrontEnd Framework
 
 <p align="left">
   &emsp;
@@ -87,7 +87,7 @@
   <img alt="NuxtJS" src="https://img.shields.io/badge/NuxtJS-black.svg?style=for-the-badge&logo=NuxtJS&logoColor=white"/>
 </p>
 
-#### BackEnd Development
+#### BackEnd Framework
 
 <p align="left"> 
   &emsp; 
