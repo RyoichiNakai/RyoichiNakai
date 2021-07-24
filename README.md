@@ -27,20 +27,22 @@
 
 - 🛳 Fun fact: 💡 Gadget,🪴 Interior, 🏀 Basketball, 💰 Money, etc... 
 
-
-
-## 📊 Github Peofile and Streak Stats
-
-<p align="center">
-  <a href="https://github.com/RyoichiNakai">
-    <img src="https://github-readme-stats.vercel.app/api?username=RyoichiNakai&show_icons=true&count_private=true&theme=nord" />
-  </a>
-  <a href="https://github.com/RyoichiNakai">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=RyoichiNakai&theme=nord&hide_border=true" alt="streak stats"  />
-  </a>
-</div>
-
 ## 💻 My Skills
+
+## 📊 Github Stats
+
+<details> 
+  <summary><b>🔥 profile and streak</b></summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/RyoichiNakai">
+      <img src="https://github-readme-stats.vercel.app/api?username=RyoichiNakai&show_icons=true&count_private=true&theme=nord" />
+    </a>
+    <a href="https://github.com/RyoichiNakai">
+      <img src="http://github-readme-streak-stats.herokuapp.com?user=RyoichiNakai&theme=nord&hide_border=true" alt="streak stats"  />
+    </a>
+  </p>
+</details>
 
 <details> 
   <summary><b>🗺  Most Used Languages</b></summary>
@@ -52,14 +54,15 @@
   </p>
 </details>
 
+<details> 
+  <summary><b>📈 recent activity</b></summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/Candida18"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ryoichinakai&custom_title=Ryoichi%20Nakai's%20Contribution%20Graph&theme=nord" /></a>
+  </p>
+</details>
 
 
-
-### 
-
-## 📈 Recent GitHub Activity
-
-   <a href="https://github.com/Candida18"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ryoichinakai&custom_title=Ryoichi%20Nakai's%20Contribution%20Graph&theme=nord" /></a>
 
 
 <!-- TODO: Twitter Facebookなどのコンタクト先を記載 -->
