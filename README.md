@@ -32,7 +32,7 @@
 ## 📊 Github Stats
 
 <details> 
-  <summary><b>🔥 profile and streak</b></summary>
+  <summary><b>🔥 Profile and Streak</b></summary>
   <br/>
   <p align="center">
     <a href="https://github.com/RyoichiNakai">
@@ -55,14 +55,18 @@
 </details>
 
 <details> 
-  <summary><b>📈 recent activity</b></summary>
-  <br/>
+  <summary><b>📈 Recent Activity</b></summary>
+
   <p align="center">
     <a href="https://github.com/Candida18"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ryoichinakai&custom_title=Ryoichi%20Nakai's%20Contribution%20Graph&theme=nord" /></a>
   </p>
 </details>
 
-
-
+<details>
+   <summary><b>⌛️ Wakatime Analysis</b></summary>
+   <br/>
+   <!--START_SECTION:waka-->
+   <!--END_SECTION:waka-->
+</details>
 
 <!-- TODO: Twitter Facebookなどのコンタクト先を記載 -->
