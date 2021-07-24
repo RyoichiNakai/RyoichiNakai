@@ -11,6 +11,8 @@
 
 ## 🤔 My Profile 
 
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+
 - 🏠 I’m currently working at **DMM.com**.
 
 
@@ -25,22 +27,33 @@
 
 - 🛳 Fun fact: 💡 Gadget,🪴 Interior, 🏀 Basketball, 💰 Money, etc... 
 
+
+
 ## 📊 Github Peofile and Streak Stats
 
 <p align="center">
   <a href="https://github.com/RyoichiNakai">
     <img src="https://github-readme-stats.vercel.app/api?username=RyoichiNakai&show_icons=true&count_private=true&theme=nord" />
   </a>
-  <a a href="https://github.com/RyoichiNakai">
+  <a href="https://github.com/RyoichiNakai">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=RyoichiNakai&theme=nord&hide_border=true" alt="streak stats"  />
   </a>
 </div>
 
-<!-- <div align="center">
-   <a href="https://github.com/RyoichiNakai">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyoichiNakai&count_praivate=true&theme=nord&langs_count=6&exclude_repo=docker-wordpress-mysql-blog,atcorder&layout=compact" />
-  </a>
-</div> -->
+## 💻 My Skills
+
+
+<details> 
+  <summary><b>🗺  Most Used Languages</b></summary>
+  <br/>
+  <p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyoichiNakai&count_praivate=true&theme=nord&langs_count=6&exclude_repo=docker-wordpress-mysql-blog,atcorder&layout=compact" />
+    <br/>
+    <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  </p>
+</details>
+
+### 
 
 ## 📈 Recent GitHub Activity
 
