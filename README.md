@@ -36,7 +36,7 @@
 <!-- https://github.com/Ileriayo/markdown-badges -->
 <!-- https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 
-#### IDEs/Editors
+### IDEs/Editors
 
 <p align="left"> 
   &emsp; 
@@ -47,7 +47,7 @@
   <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
 </p>
 
-#### Version Control
+### Version Control
 
 <p align="left"> 
   &emsp; 
@@ -58,7 +58,7 @@
   <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
-#### Prorgramming Languages
+### Prorgramming Languages
 
 <p align="left"> 
   &emsp; 
@@ -79,7 +79,7 @@
   <img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
 </p>
 
-#### Frontend Frameworks
+### Frontend Frameworks
 
 <p align="left">
   &emsp;
@@ -92,7 +92,7 @@
   <img alt="NuxtJS" src="https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white"/>
 </p>
 
-#### Backend Frameworks
+### Backend Frameworks
 
 <p align="left"> 
   &emsp; 
@@ -101,15 +101,14 @@
   <img alt="Rails" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 </p>
 
-#### Mobile Frameworks
-
+### Mobile Frameworks
 
 <p align="left"> 
   &emsp; 
   <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
 </p>
 
-#### DataBases/API
+### DataBases/API
 
 <p align="left"> 
   &emsp; 
@@ -122,7 +121,7 @@
   <img alt="GraphQL" src ="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
 </p>
 
-#### Hosting/SaaS/Container/Servers/CI
+### Hosting/SaaS/Container/Servers/CI
 
 <p align="left"> 
   &emsp; 
