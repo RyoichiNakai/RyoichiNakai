@@ -5,7 +5,11 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Backend+Engineer;Major+in+Information+Engineering;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ryoichinakai&label=Profile%20views&color=0e75b6&style=flat" alt="viewcounter" /> </p>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=ryoichinakai&label=Profile%20views&color=0e75b6&style=flat" alt="viewcounter" />
+  <img src="https://img.shields.io/github/followers/ryoichinakai.svg?style=social&label=Follow&maxAge=2592000" alt="follwers" />
+
+</p>
 
 <hr>
 
