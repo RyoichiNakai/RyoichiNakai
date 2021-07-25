@@ -158,7 +158,7 @@
   <summary><b>🔥 Streak Stats </b></summary>
   <br/>
   <p align="center">
-     <img src="http://github-readme-streak-stats.herokuapp.com?user=RyoichiNakai&theme=nord&hide_border=false" alt="streak stats"  />
+     <img src="http://github-readme-streak-stats.herokuapp.com/?user=RyoichiNakai&theme=nord&hide_border=false" alt="streak stats"  />
   </p>
 </details>
 
