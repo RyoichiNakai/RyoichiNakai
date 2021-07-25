@@ -30,6 +30,7 @@
 
 <!-- https://rahuldkjain.github.io/gh-profile-readme-generator/ は使わない方向で -->
 <!-- https://github.com/Ileriayo/markdown-badges -->
+<!-- https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 
 #### IDEs/Editors
 
@@ -74,7 +75,7 @@
   <img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
 </p>
 
-#### Frontend Framework
+#### Frontend Frameworks
 
 <p align="left">
   &emsp;
@@ -82,30 +83,42 @@
   &emsp; 
   <img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
   &emsp; 
-  <img alt="Vue.js" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vue-dot-js&logoColor=%234FC08D"/>
+  <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/>
   &emsp; 
-  <img alt="NuxtJS" src="https://img.shields.io/badge/NuxtJS-black.svg?style=for-the-badge&logo=NuxtJS&logoColor=white"/>
+  <img alt="NuxtJS" src="https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white"/>
 </p>
 
-#### Backend Framework
+#### Backend Frameworks
+
+<p align="left"> 
+  &emsp; 
+  <img alt="Rails" src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white"/>
+   &emsp; 
+  <img alt="Rails" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+</p>
+
+#### Mobile Frameworks
+
 
 <p align="left"> 
   &emsp; 
   <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
-  &emsp; 
-  <img alt="Rails" src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white"/>
 </p>
 
-#### DataBases
+#### DataBases/API
 
 <p align="left"> 
   &emsp; 
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
   &emsp; 
   <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  &emsp; 
+  <img alt="Dynamo DB" src ="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white"/>
+  &emsp; 
+  <img alt="GraphQL" src ="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
 </p>
 
-#### Hosting/SaaS/Servers/CI
+#### Hosting/SaaS/Container/Servers/CI
 
 <p align="left"> 
   &emsp; 
