@@ -166,7 +166,7 @@
   <summary><b>📈 Recent Activity</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/Candida18"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ryoichinakai&custom_title=Ryoichi%20Nakai's%20Contribution%20Graph&theme=nord" /></a>
+    <a href="https://github.com/RyoichiNakai"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=RyoichiNakai&custom_title=Ryoichi%20Nakai's%20Contribution%20Graph&theme=nord" /></a>
   </p>
 </details>
 
