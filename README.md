@@ -7,9 +7,11 @@
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=ryoichinakai&label=Profile%20views&color=0e75b6&style=flat" alt="viewcounter" />
+  <img src="https://vistr.dev/badge?repo=.repoName"
   <img src="https://img.shields.io/github/followers/ryoichinakai.svg?style=social&label=Follow&maxAge=2592000" alt="follwers" />
 
 </p>
+
 
 <hr>
 
