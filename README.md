@@ -142,7 +142,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=RyoichiNakai&show_icons=true&count_private=true&theme=nord" />
     </a>
     <a href="https://github.com/RyoichiNakai">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyoichiNakai&count_praivate=true&theme=nord&langs_count=8&exclude_repo=docker-wordpress-mysql-blog,atcorder&layout=compact" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyoichiNakai&count_praivate=true&theme=nord&langs_count=8&exclude_repo=docker-wordpress-mysql-blog,atcorder,bachelor-study&layout=compact" />
     </a>
     <br/>
     <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
