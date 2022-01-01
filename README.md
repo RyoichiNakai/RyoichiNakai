@@ -157,7 +157,7 @@
    <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 🏆 1,457 Contributions in the Year 2021
+> 🏆 0 Contributions in the Year 2022
  > 
 > 📦 240.3 kB Used in GitHub's Storage 
  > 
@@ -206,7 +206,7 @@ VS Code                  1 hr 58 mins        ███████████�
 ```
 
 
- Last Updated on 31/12/2021
+ Last Updated on 01/01/2022
 <!--END_SECTION:waka-->
 </details>
 
