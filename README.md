@@ -159,7 +159,7 @@
    <br/>
   
    <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-296%20hrs%2046%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -208,7 +208,7 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 17/08/2022 01:37:34 UTC
+ Last Updated on 18/08/2022 01:36:49 UTC
 <!--END_SECTION:waka-->
 </details>
 
